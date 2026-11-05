@@ -1,0 +1,28 @@
+# Virtual Environment Python
+.venv/
+venv/
+env/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# File rahasia atau pengaturan lokal
+.env
+*.log
+
+# Cache Jupyter Notebook
+.ipynb_checkpoints/
+
+# Tools Testing
+.pytest_cache/
+.coverage
+
+# Pengaturan IDE / Text Editor
+.vscode/
+.idea/
+*.swp
+
+# File sistem operasi
+Thumbs.db
+.DS_Store
